@@ -72,7 +72,7 @@ fraud-detection-project/
 
 ## 🛠️ Tools & Technologies
 
-| Library | Version | Purpose |
+| Library | Purpose |
 |---|---|---|
 | **Python** | Core programming language |
 | **Pandas** | Data manipulation & analysis |
@@ -244,13 +244,13 @@ Actual: Fraud         695              503
 ## 🖼️ Dashboard Screenshots
 
 ### 📋 Page 1 — Executive Summary
-![Executive Summary](Executive Summary_page 1.png)
+![Executive Summary](Executive_Summary_page_1.png)
 > KPI overview with monthly fraud trend, city-wise breakdown, and fraud vs legitimate split
 
 ---
 
 ### 🤖 Page 5 — ML Predictions & Risk Analysis
-![ML Predictions](ML Predictions_page 5.png)
+![ML Predictions](ML_Predictions_page_5.png)
 > Model output table, fraud probability distribution, and risk level classification donut
 
 ---
@@ -267,18 +267,18 @@ Actual: Fraud         695              503
 
 ### 🗄️ Database & Query
 
-| Tool | Version | Purpose |
+| Tool | Purpose |
 |---|---|---|
-| **MySQL Workbench** | Latest | GUI for writing & running SQL queries |
-| **SQL** | — | 7 analytical queries for business insights |
+| **MySQL Workbench** | GUI for writing & running SQL queries |
+| **SQL**| 7 analytical queries for business insights |
 
 ### 📊 Business Intelligence
 
-| Tool | Version | Purpose |
+| Tool | Purpose |
 |---|---|---|
-| **Power BI Desktop** | Latest | Interactive 5-page fraud dashboard |
-| **DAX** | — | Custom KPI measures & calculated columns |
-| **Power Query** | — | Data transformation inside Power BI |
+| **Power BI Desktop** | Interactive 5-page fraud dashboard |
+| **DAX** | Custom KPI measures & calculated columns |
+| **Power Query** | Data transformation inside Power BI |
 
 ### 🤖 Machine Learning
 
